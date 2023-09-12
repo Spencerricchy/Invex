@@ -1,0 +1,270 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../images/login-background-image.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #EAEDF7;
+}
+.pepper{
+    padding: 30px;
+}
+.shadow-lg{
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+}
+.loginform{
+    font-family: "Poppins", sans-serif;
+    background-color: #ffffff;
+    width: 40%;
+    height: auto;
+    margin: 5% auto;
+    padding: 30px 20px;
+    border-radius: 18px;
+}
+.text-center{
+    font-family: "Poppins", sans-serif;
+    font-size: 1.5rem!important;
+    color:  #46bc5c;
+    font-weight: bold;
+}
+.text-center-p{
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    font-size: 0.8rem!important;
+    color: #A1A4B5;
+}
+.loginform .btn{
+    background-color: #46bc5c;
+    border-color: #46bc5c;
+    color: #ffffff;
+}
+.loginform .btn:hover{
+background-color: #6610f2;
+transition: 1.3s ease;
+box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+}
+.form-control{
+    font-size: 0.9rem!important;
+    color: #A1A4B5!important;
+    border:1px transparent #A1A4B5!important;
+}
+.form-check a{
+    color:  #46bc5c!important;
+    font-size: 0.9rem!important;
+    float: right!important;
+    font-weight: 500;
+}
+.form-check a i{
+    padding-right: 5px!important;
+}
+.form-check a:hover{
+    color:  #46bc5c!important;
+    text-decoration: none;
+}
+
+.signup{
+    color:  #46bc5c!important;
+    font-size: 0.9rem!important;
+}
+.signup:hover{
+    color:  #46bc5c!important;
+   text-decoration: none;
+}
+.form-check-label{
+    font-size: 0.9rem!important;
+    color: #A1A4B5!important;
+}
+
+.social-icon{
+    display: flex;
+    justify-content: center;
+  
+}
+.facebook{
+height: 35px;
+width: 35px;
+border-radius: 50%;
+margin-right: 3%;
+text-align: center;
+line-height: 35px;
+background-color: #f0f3f6;
+    border-color: #f0f3f6;
+
+}
+.facebook:hover{
+    background-color: #3b5998;
+    color: #ffffff!important;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+    transition: 1.3s ease;
+}
+.fa-facebook-f{
+    color: #3b5998 !important;
+}
+.fa-facebook-f:hover{
+    color: #ffffff!important;
+    transition: 1.3s ease;
+}
+.instagram{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin-right: 3%;
+    background-color: #A1A4B5;
+    text-align: center;
+    line-height: 35px;
+    background-color: #f0f3f6;
+    border-color: #f0f3f6;
+}
+.instagram:hover{
+    background-color: #e1306c ;
+    color: #ffffff!important;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+    transition: 1.3s ease;
+}
+.fa-instagram{
+    color: #e1306c ;
+}
+.fa-instagram:hover{
+    color: #ffffff!important;
+    transition: 1s ease;
+}
+.twitter{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin-right: 3%;
+    background-color: #A1A4B5;
+    text-align: center;
+    line-height: 35px;
+    background-color: #f0f3f6;
+    border-color: #f0f3f6;
+}
+.twitter:hover{
+    background-color: #000000;
+    color: #ffffff!important;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+    transition: 1s ease;
+}
+.fa-x-twitter{
+    color: #000000;
+}
+.fa-x-twitter:hover{
+    color: #ffffff!important;
+    transition: 1s ease;
+}
+
+
+
+
+
+
+
+
+
+@media(max-width:880px){
+    .loginform{
+        width: 60%;
+        margin: 10% auto;
+    }
+}
+
+@media(max-width:723px){
+    .loginform{
+        width: 80%;
+        margin: auto;
+    }
+}
+@media(max-width:420px){
+    .loginform{
+        width: 100%;
+        margin: 40% auto;
+    }
+}
+@media(max-width:380px){
+    .loginform{
+        width: 100%;
+        margin: 20% auto;
+    }
+}
+@media(max-width:330px){
+    .loginform{
+        width: 100%;
+        margin:  auto;
+        padding: 6px;
+    }
+    .text-center{
+        font-size: 1rem!important;
+        margin-top: 3%!important;
+    }
+    .text-center-p{
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
